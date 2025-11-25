@@ -1,0 +1,5 @@
+streamlit
+langchain-google-genai
+langgraph
+python-docx
+langchain
